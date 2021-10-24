@@ -12,9 +12,15 @@ p {
   color: green;
 }
 
-div {
+div.style {
   border-style: dotted;
+}
+
+div.width {
   border-width: 2px;
+}
+
+div.height {
   border-height: 100px;
 }
 
