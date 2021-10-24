@@ -36,8 +36,8 @@ h2 {
 }
 
 .img-with-text {
-    text-align: justify;
-    width: 420;
+    text-align: left;
+    width: 210;
 }
 
 .img-with-text img {
