@@ -34,3 +34,13 @@ ul {
 h2 {
   color: white;
 }
+
+.img-with-text {
+    text-align: justify;
+    width: 20%;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}	
