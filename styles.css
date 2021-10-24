@@ -41,6 +41,6 @@ h2 {
 }
 
 .img-with-text img {
-    display: block;
+    display: none;
     margin: 0 auto;
 }	
