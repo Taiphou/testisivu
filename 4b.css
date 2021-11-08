@@ -18,6 +18,21 @@ p {
   color: black;
 }
 
+p2 {
+  font-size: 12px;
+  color: black;
+  background-color: #ed553b;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #ed553b;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
+
+
 span {
   background-color: #3caea3;
   }
