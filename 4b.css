@@ -21,9 +21,13 @@ h2.style{
 p {
   font-size: 12px;
   color: black;
-  background-color: #3caea3;
+  
   text-align: center;
 }
+
+p span {
+  background-color: #3caea3;
+  }
 
 div.style {
   border-style: dotted;
