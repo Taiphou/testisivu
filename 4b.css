@@ -22,6 +22,10 @@ span {
   background-color: #3caea3;
   }
 
+div.tyyli {
+  border-style: double;
+  border-width: 2px;
+} 
 
 div.style {
   border-style: dotted;
