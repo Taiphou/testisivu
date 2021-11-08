@@ -19,6 +19,12 @@ p {
   color: black;
 }
 
+p2 {
+  font-size: 12px;
+  color: black;
+  background-color: #3caea3;
+}
+
 div.style {
   border-style: dotted;
   border-width: 2px;
