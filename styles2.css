@@ -1,6 +1,6 @@
 body {
-  color: #173F5F;
-  background-color: #f6d55c;
+  color: black;
+  background-color: white;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 
 p {
   font-size: 12px;
-  color: #173F5F;
+  color: black;
 }
 
 div.style {
@@ -32,5 +32,5 @@ ul {
 }
 
 h2 {
-  color: white;
+  color: black;
 }
