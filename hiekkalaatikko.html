@@ -12,36 +12,30 @@ body {
 
 .sidenav {
   height: 100%;
-  width: 0;
+  width: 200px;
   position: fixed;
   z-index: 1;
   top: 0;
-  right: 0;
+  left: 0;
   background-color: #20639b;
   overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
+  padding-top: 20px;
 }
 
 .sidenav a {
-  padding: 8px 8px 8px 32px;
+  padding: 6px 6px 6px 32px;
   text-decoration: none;
   font-size: 25px;
   color: white;
   display: block;
-  transition: 0.3s;
 }
 
 .sidenav a:hover {
   color: #3caea3;
 }
-
-.sidenav .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
+	
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
 }
 
 @media screen and (max-height: 450px) {
@@ -51,25 +45,15 @@ body {
 </style>
 	</head>	
 <body>
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+<div class="sidenav">
   <a href="/testisivu/Hakemisto.html">Hakemisto</a>
   <a href="/testisivu/index.html">index</a>
   <a href="/testisivu/styles.html">styles</a>
   <a href="/testisivu/hiekkalaatikko.html">hiekkalaatikko</a>
 </div>
 
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Valikko</span>
 
-<script>
-function openNav() {
-  document.getElementById("mySidenav").style.width = "250px";
-}
 
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-}
-</script>
 <h1>UNDER CONSTRUCTION... </h1>
 <h4> Kuva: </h4>
 <style>
