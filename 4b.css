@@ -9,6 +9,11 @@ h1 {
   
 }
 
+h2 {
+  font-size: 20px;
+  p.double {border-style: double;}
+}
+
 p {
   font-size: 12px;
   color: black;
