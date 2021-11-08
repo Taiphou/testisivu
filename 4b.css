@@ -13,18 +13,17 @@ h2 {
   font-size: 20px;
 }
 
-h2.style{
-  border-style: double;
-  
-}
-
 p {
   font-size: 12px;
   color: black;
 }
 
-span {
+span1 {
   background-color: #3caea3;
+  }
+
+span2 {
+  border-style: double;
   }
 
 div.style {
