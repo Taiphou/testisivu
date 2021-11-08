@@ -11,7 +11,11 @@ h1 {
 
 h2 {
   font-size: 20px;
-  h2.double {border-style: double;}
+}
+
+h2.style{
+  border-style: double;
+  
 }
 
 p {
