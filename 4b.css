@@ -18,7 +18,7 @@ p {
   color: black;
 }
 
-p.testi {
+p.test {
   font-size: 12px;
   color: black;
   background-color: #ed553b;
@@ -29,7 +29,10 @@ p.testi {
   border: 2px solid #ed553b;
   padding: 5px; 
   width: 150px;
-  height: 100px;  
+  height: 100px;
+  font-size: 12px;
+  color: black;
+  background-color: #ed553b;
 }
 
 
