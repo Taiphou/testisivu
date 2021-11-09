@@ -39,6 +39,7 @@ span {
 
 div.tyyli {
   display: inline;
+  align: center;
   border-radius: 2px;
   border-style: double;
   border-width: 2px;
